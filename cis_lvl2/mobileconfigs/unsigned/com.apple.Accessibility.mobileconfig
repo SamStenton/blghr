@@ -13,11 +13,11 @@
 			<key>AXSAudioDonationSiriImprovementEnabled</key>
 			<false/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.e70f839a-ecae-4f00-8af9-fcd495f2ef57</string>
+			<string>alacarte.macOS.cis_lvl2.bd1107e2-0c7f-474b-acf3-8291979814f7</string>
 			<key>PayloadType</key>
 			<string>com.apple.Accessibility</string>
 			<key>PayloadUUID</key>
-			<string>e70f839a-ecae-4f00-8af9-fcd495f2ef57</string>
+			<string>bd1107e2-0c7f-474b-acf3-8291979814f7</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.Accessibility preference domain.</strin
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3307bdf4-0481-418f-8659-0ae5bffafb1c</string>
+	<string>62ec50c8-9925-40a4-9849-b685750acb2e</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

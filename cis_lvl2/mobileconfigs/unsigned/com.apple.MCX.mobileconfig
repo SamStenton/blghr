@@ -15,11 +15,11 @@
 			<key>EnableGuestAccount</key>
 			<false/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.afd7f19e-0e38-493e-8c8c-4d255fdd6760</string>
+			<string>alacarte.macOS.cis_lvl2.61c32a1f-02a7-4461-84b7-51970a4c4ef3</string>
 			<key>PayloadType</key>
 			<string>com.apple.MCX</string>
 			<key>PayloadUUID</key>
-			<string>afd7f19e-0e38-493e-8c8c-4d255fdd6760</string>
+			<string>61c32a1f-02a7-4461-84b7-51970a4c4ef3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>dontAllowFDEDisable</key>
@@ -44,7 +44,7 @@ Configuration settings for the com.apple.MCX preference domain.</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>304f49ac-39a6-4a08-8bf3-6048d392f649</string>
+	<string>e684b39f-2f7e-4d99-8cf0-71f0bf18cba7</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

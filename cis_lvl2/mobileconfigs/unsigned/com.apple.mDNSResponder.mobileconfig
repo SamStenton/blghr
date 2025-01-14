@@ -13,11 +13,11 @@
 			<key>NoMulticastAdvertisements</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.75c7c05d-b571-44d2-8922-c3b18fdd250b</string>
+			<string>alacarte.macOS.cis_lvl2.9e3a6448-71f7-4244-8477-00bf92840f31</string>
 			<key>PayloadType</key>
 			<string>com.apple.mDNSResponder</string>
 			<key>PayloadUUID</key>
-			<string>75c7c05d-b571-44d2-8922-c3b18fdd250b</string>
+			<string>9e3a6448-71f7-4244-8477-00bf92840f31</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.mDNSResponder preference domain.</strin
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>df8c872e-034e-43af-861c-a275159d58bd</string>
+	<string>2e02f4ab-f40c-48c2-bd3c-adb6caf7302a</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

@@ -13,11 +13,11 @@
 			<key>AutoSubmit</key>
 			<false/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.81d824af-2663-4aa3-906d-cb23c3d29756</string>
+			<string>alacarte.macOS.cis_lvl2.a6918beb-cad8-47eb-82f4-e93dea639ec0</string>
 			<key>PayloadType</key>
 			<string>com.apple.SubmitDiagInfo</string>
 			<key>PayloadUUID</key>
-			<string>81d824af-2663-4aa3-906d-cb23c3d29756</string>
+			<string>a6918beb-cad8-47eb-82f4-e93dea639ec0</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.SubmitDiagInfo preference domain.</stri
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>c06c11ae-a2f8-4f9f-a01b-1f627948c069</string>
+	<string>9a6a19fa-0a93-4934-852d-3c561ca3d90e</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

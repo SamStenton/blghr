@@ -11,11 +11,11 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.3b9be5f7-79bf-4475-b15e-4c9eccf42c13</string>
+			<string>alacarte.macOS.cis_lvl2.b8e9e4a7-3994-43bd-b03c-83f3ce02ed28</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>3b9be5f7-79bf-4475-b15e-4c9eccf42c13</string>
+			<string>b8e9e4a7-3994-43bd-b03c-83f3ce02ed28</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowAirDrop</key>
@@ -56,7 +56,7 @@ Configuration settings for the com.apple.applicationaccess preference domain.</s
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>c6f06ba0-3fb3-4863-8080-d1909dab605f</string>
+	<string>09de5a93-0795-4cb5-943b-ded7cab4ae7d</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

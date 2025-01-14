@@ -11,11 +11,11 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.e6b9c03d-5ec1-4193-994c-35e08a7ae8f1</string>
+			<string>alacarte.macOS.cis_lvl2.b02a936e-aca1-46a2-a359-be8ab94294da</string>
 			<key>PayloadType</key>
 			<string>com.apple.Terminal</string>
 			<key>PayloadUUID</key>
-			<string>e6b9c03d-5ec1-4193-994c-35e08a7ae8f1</string>
+			<string>b02a936e-aca1-46a2-a359-be8ab94294da</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>SecureKeyboardEntry</key>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.Terminal preference domain.</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>ed57820e-9382-4224-a0cc-3b567d58da65</string>
+	<string>fb0bca00-e584-4b9e-abfa-218a935896cf</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

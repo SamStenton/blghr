@@ -11,11 +11,11 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.b58d364b-fab4-4fbe-996d-2faa7cabd722</string>
+			<string>alacarte.macOS.cis_lvl2.9b7c9033-bd70-4a7d-935a-f2a2daab91f2</string>
 			<key>PayloadType</key>
 			<string>com.apple.Siri</string>
 			<key>PayloadUUID</key>
-			<string>b58d364b-fab4-4fbe-996d-2faa7cabd722</string>
+			<string>9b7c9033-bd70-4a7d-935a-f2a2daab91f2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>VoiceTriggerUserEnabled</key>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.Siri preference domain.</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>979fdb24-e11c-4db1-94c7-aa58491665ca</string>
+	<string>e0f7d1d1-7cb2-47f5-a694-eff49df29d82</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

@@ -27,11 +27,11 @@
 				</dict>
 			</dict>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.bdf617d9-f751-4be7-85ff-99530ab48b94</string>
+			<string>alacarte.macOS.cis_lvl2.2590a285-d6b1-446c-a319-843dab1548da</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>bdf617d9-f751-4be7-85ff-99530ab48b94</string>
+			<string>2590a285-d6b1-446c-a319-843dab1548da</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -50,7 +50,7 @@ Configuration settings for the com.apple.ManagedClient.preferences preference do
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>bd2a6f8b-0337-4bf4-aa32-270fcff00434</string>
+	<string>3a5d1fd9-54c4-4ad7-8b38-bb18797ec995</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

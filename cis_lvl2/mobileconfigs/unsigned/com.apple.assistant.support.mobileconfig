@@ -11,11 +11,11 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.62fe1ddc-2863-4b1f-ab3f-f24d13cbf00a</string>
+			<string>alacarte.macOS.cis_lvl2.4e91407a-3303-4f38-b39c-659d756870cc</string>
 			<key>PayloadType</key>
 			<string>com.apple.assistant.support</string>
 			<key>PayloadUUID</key>
-			<string>62fe1ddc-2863-4b1f-ab3f-f24d13cbf00a</string>
+			<string>4e91407a-3303-4f38-b39c-659d756870cc</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Siri Data Sharing Opt-In Status</key>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.assistant.support preference domain.</s
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>50e346a9-19e5-4a98-a5c8-0cfb8703fdba</string>
+	<string>c38e0c95-468d-4879-acc7-48cd1aa9b49e</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

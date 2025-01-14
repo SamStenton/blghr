@@ -13,11 +13,11 @@
 			<key>Bluetooth</key>
 			<integer>18</integer>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.12b3b0cd-ac80-430a-a707-b5d7cfb513e6</string>
+			<string>alacarte.macOS.cis_lvl2.ac56909c-d5d3-419d-b3bc-3d1f1058e725</string>
 			<key>PayloadType</key>
 			<string>com.apple.controlcenter</string>
 			<key>PayloadUUID</key>
-			<string>12b3b0cd-ac80-430a-a707-b5d7cfb513e6</string>
+			<string>ac56909c-d5d3-419d-b3bc-3d1f1058e725</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>WiFi</key>
@@ -38,7 +38,7 @@ Configuration settings for the com.apple.controlcenter preference domain.</strin
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>69a26488-e600-4130-980b-ecea93891cd5</string>
+	<string>c3a6ba9f-3a5e-47b5-8fe4-c978eeb80316</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

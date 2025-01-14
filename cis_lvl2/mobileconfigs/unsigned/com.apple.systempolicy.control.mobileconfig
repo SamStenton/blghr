@@ -13,11 +13,11 @@
 			<key>EnableAssessment</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.6d1da00f-c455-40ae-b4a3-c3c806008857</string>
+			<string>alacarte.macOS.cis_lvl2.47b986e8-2121-49c2-b1f8-37a712052f4d</string>
 			<key>PayloadType</key>
 			<string>com.apple.systempolicy.control</string>
 			<key>PayloadUUID</key>
-			<string>6d1da00f-c455-40ae-b4a3-c3c806008857</string>
+			<string>47b986e8-2121-49c2-b1f8-37a712052f4d</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -36,7 +36,7 @@ Configuration settings for the com.apple.systempolicy.control preference domain.
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>30d263b6-6f94-4c5b-a88d-64e2c80f3eae</string>
+	<string>b5f7df89-d0e3-4279-bf59-b94c00af12a1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

@@ -15,11 +15,11 @@
 			<key>EnableStealthMode</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>alacarte.macOS.cis_lvl2.86ffac76-0c2a-417c-8e6a-76f9ce4828f2</string>
+			<string>alacarte.macOS.cis_lvl2.c5d8455b-8927-4a73-9a29-6a0643c70903</string>
 			<key>PayloadType</key>
 			<string>com.apple.security.firewall</string>
 			<key>PayloadUUID</key>
-			<string>86ffac76-0c2a-417c-8e6a-76f9ce4828f2</string>
+			<string>c5d8455b-8927-4a73-9a29-6a0643c70903</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -38,7 +38,7 @@ Configuration settings for the com.apple.security.firewall preference domain.</s
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>8ade307b-3f90-4427-8101-2eab59c74765</string>
+	<string>a7cde0f0-0441-41cf-8324-e35267f044b6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
